@@ -1,30 +1,22 @@
-# React + TypeScript + Vite
+# NOTES APP 💼.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React + TypeScript application for creating and deleting notes. 
 
-Currently, two official plugins are available:
+## Usage:
+- Open [this URL](https://notes-5.netlify.app) in a web browser to launch the application.
+- Enter your notes in the input fields.
+- Click the "Add" button to add a note.
+- Click the 🗑️ button to delete a note.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features:
+- Add Notes: Users can add notes.
+- Delete Notes: Users can remove notes from the list.
 
-## Expanding the ESLint configuration
+## Technologies Used:
+- React: The application is built using React, a JavaScript library for building user interfaces.
+- Tailwind: Styling is done using Tailwind framework.
+- TypeScript: It adds type safety to the code, making it easier to catch errors during development and improving the overall code quality.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Credits: 
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+This project was created by Marina Lapteva. It was inspired by tutorials and resources available online for learning web development.
