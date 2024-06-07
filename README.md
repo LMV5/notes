@@ -1,4 +1,4 @@
-# NOTES APP 💼.
+# NOTES APP 📝.
 
 This is a simple React + TypeScript application for creating and deleting notes. 
 
