@@ -2,7 +2,7 @@
 
 This is a simple React + TypeScript application for creating and deleting notes. 
 
-![55](https://github.com/LMV5/notes/assets/111173608/1626d9c9-bdaf-469a-a7d8-070d42b12f93)
+![55 - Copy](https://github.com/LMV5/notes/assets/111173608/51869e1e-5f8a-470a-bcec-64e93f48af78)
 
 ## Usage:
 - Open [this URL](https://notes-5.netlify.app) in a web browser to launch the application.
